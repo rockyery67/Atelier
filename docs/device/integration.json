@@ -1,0 +1,40 @@
+{
+  "performance": {
+    "full": {
+      "frames": 149,
+      "wall_ms": 6666,
+      "build_p95_ms": 8.292,
+      "raster_p95_ms": 18.863,
+      "build_max_ms": 40.84,
+      "raster_max_ms": 45.445,
+      "frames_over_16_67_ms": 16
+    },
+    "reduced": {
+      "frames": 143,
+      "wall_ms": 5988,
+      "build_p95_ms": 9.027,
+      "raster_p95_ms": 14.022,
+      "build_max_ms": 40.048,
+      "raster_max_ms": 21.296,
+      "frames_over_16_67_ms": 6
+    },
+    "minimal": {
+      "frames": 142,
+      "wall_ms": 5842,
+      "build_p95_ms": 6.886,
+      "raster_p95_ms": 8.019,
+      "build_max_ms": 56.226,
+      "raster_max_ms": 15.706,
+      "frames_over_16_67_ms": 4
+    }
+  },
+  "permission": true,
+  "scheduled_ids": [
+    2,
+    3,
+    1
+  ],
+  "background_due": "2026-10-23T16:47:39.428616",
+  "closed_due": "2026-10-23T16:50:39.428616",
+  "timezone": "+0545"
+}

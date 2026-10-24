@@ -1,0 +1,3 @@
+Cold process was killed after notification delivery, before tapping.
+Notification title: Atelier closed-process delivery test
+Result: opened Personal Note with original entry content: Closed-process reminder acceptance probe

@@ -1,0 +1,51 @@
+{
+  "paper": {
+    "author": "Luckius",
+    "source": "https://opengameart.org/content/various-paper-sound-effects",
+    "download": "https://opengameart.org/sites/default/files/paper_sound_-_1.mp3",
+    "license": "CC0 1.0",
+    "sha256": "f62e6cab41a9c0a8c67b5752c95e80e6adc681110d579ada982627909be1773d"
+  },
+  "shuffle": {
+    "author": "Luckius",
+    "source": "https://opengameart.org/content/various-paper-sound-effects",
+    "download": "https://opengameart.org/sites/default/files/paper_sound_-_4.mp3",
+    "license": "CC0 1.0",
+    "sha256": "69f65b053e6b96b1ffe065637f20e5dce990de3ce600fe6fb837d73243f76d41"
+  },
+  "crumple": {
+    "author": "Luckius",
+    "source": "https://opengameart.org/content/various-paper-sound-effects",
+    "download": "https://opengameart.org/sites/default/files/paper_crushed_-_1.mp3",
+    "license": "CC0 1.0",
+    "sha256": "f43b208fada1e29e086dc3b9df8d1208dea7d5b0a0496a755d793c2f620b7de2"
+  },
+  "pin": {
+    "author": "lmbubec",
+    "source": "https://freesound.org/people/lmbubec/sounds/119798/",
+    "download": "https://cdn.freesound.org/previews/119/119798_1990688-hq.mp3",
+    "license": "CC0 1.0",
+    "sha256": "fcf1a21b515ef5d709bde9548a924fa59ffee2132a72b39966f6a3eb29f3c676"
+  },
+  "writing": {
+    "author": "moai15",
+    "source": "https://freesound.org/people/moai15/sounds/336382/",
+    "download": "https://cdn.freesound.org/previews/336/336382_4143756-hq.mp3",
+    "license": "CC0 1.0",
+    "sha256": "4dce2525a8cd17e44260d61fd6ba88185ef23cba896b66d7350d47f3b85c976b"
+  },
+  "tape": {
+    "author": "Jarebear1223",
+    "source": "https://freesound.org/people/Jarebear1223/sounds/618541/",
+    "download": "https://cdn.freesound.org/previews/618/618541_11526892-hq.mp3",
+    "license": "CC0 1.0",
+    "sha256": "2da1759f586cf9593c1d987fb78e6dab980af7447f50c05eb7a0eb8ac5d03a41"
+  },
+  "shred": {
+    "author": "aunrea",
+    "source": "https://freesound.org/people/aunrea/sounds/495666/",
+    "download": "https://cdn.freesound.org/previews/495/495666_7932944-hq.mp3",
+    "license": "CC0 1.0",
+    "sha256": "4a9888ff76dfa86884e7485b6ba878cd767865a706b89524c0c54707e54a6c1f"
+  }
+}

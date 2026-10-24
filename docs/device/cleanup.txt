@@ -1,0 +1,5 @@
+﻿Final installed APK SHA256:
+6301b4b1419180ad58f2381d8761972335316476f69c4d7a824983038a10e75e  /data/app/~~U3NcVRDgoGNNl97sxGiViA==/com.atelier.notes.atelier-BjIEeRT4Ad3B8P3V-jqLTw==/base.apk
+Active Atelier alarms:
+Restored stay_on_while_plugged_in:
+0

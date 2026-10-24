@@ -1,0 +1,26 @@
+[
+  {
+    "kind": "background",
+    "observed_host_time": "2026-10-23T16:49:09.583704+05:45",
+    "evidence": [
+      "NotificationRecord(0x04c50a62: pkg=com.atelier.notes.atelier user=UserHandle{0} id=2 tag=null importance=3 key=0|com.atelier.notes.atelier|2|null|10235: Notification(channel=atelier_tasks_v1 shortcut=null contentView=null vibrate=null sound=null defaults=0 flags=AUTO_CANCEL color=0x00000000 vis=PRIVATE))",
+      "                android.title=String (Atelier background delivery test)",
+      "                android.text=String (A little nudge from Atelier)",
+      "      mCreationTimeMs=1792753448656",
+      "      mUpdateTimeMs=1792753448656",
+      "      mInterruptionTimeMs=1792753448882"
+    ]
+  },
+  {
+    "kind": "closed",
+    "observed_host_time": "2026-10-23T16:57:14.645980+05:45",
+    "evidence": [
+      "NotificationRecord(0x0d36f7a4: pkg=com.atelier.notes.atelier user=UserHandle{0} id=3 tag=null importance=3 key=0|com.atelier.notes.atelier|3|null|10235: Notification(channel=atelier_tasks_v1 shortcut=null contentView=null vibrate=null sound=null defaults=0 flags=AUTO_CANCEL color=0x00000000 vis=PRIVATE))",
+      "                android.title=String (Atelier closed-process delivery test)",
+      "                android.text=String (A little nudge from Atelier)",
+      "      mCreationTimeMs=1792753933410",
+      "      mUpdateTimeMs=1792753933410",
+      "      mInterruptionTimeMs=1792753933633"
+    ]
+  }
+]
