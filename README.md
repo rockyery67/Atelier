@@ -202,3 +202,5 @@ channel, Focus/DND and vendor battery restrictions if an alert is late. Reopen t
 app after changing timezone or permission to reconcile records. If a storage
 write fails, retain your form and retry; destruction is never used as success
 feedback for a failed deletion. A notification error does not erase local notes.
+#   A t e l i e r  
+ 
